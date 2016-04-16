@@ -1,5 +1,5 @@
 # Awesome development
-A curated list of open source software for helping developers and IT staff
+A curated list of open source software for helping developers and other IT staff
 
 ## Documentation
 * [Read the docs](https://read-the-docs.readthedocs.org/) - Documentation hosting and automated building from Sphinx (reStructuredText) or Markdown sources at Subversion, Bazaar, Git, and Mercurial repositories as Continuous Documentation.
