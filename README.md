@@ -1,5 +1,5 @@
-# awesome-dev
-A curated list of tools and open source libraries and apps for developers and devops
+# Awesome development
+A curated list of open source software for helping developers and IT staff
 
 ## Documentation
 * [Read the docs](https://read-the-docs.readthedocs.org/) - Documentation hosting and automated building from Sphinx (reStructuredText) or Markdown sources at Subversion, Bazaar, Git, and Mercurial repositories as Continuous Documentation.
