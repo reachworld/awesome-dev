@@ -12,3 +12,4 @@ A curated list of open source software for helping Developers and other IT Staff
 
 ## References
 * [Top 10 Open-Source Docker Developer Tools](https://www.ctl.io/developers/blog/post/top-10-open-source-docker-developer-tools/) - Tools for Docker universe. Orchestation, PaaS, Continuous integration and delivery, ...
+* [Top 50 open source web crawlers for data mining](http://bigdata-madesimple.com/top-50-open-source-web-crawlers-for-data-mining/)
