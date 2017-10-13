@@ -7,6 +7,9 @@ A curated list of open source software for helping Developers and other IT Staff
 ## Documentation
 * [Read the docs](https://read-the-docs.readthedocs.org/) - Documentation hosting and automated building from Sphinx (reStructuredText) or Markdown sources at Subversion, Bazaar, Git, and Mercurial repositories as Continuous Documentation.
 
+## JAVA World
+* [Vaadin UI Framework](https://vaadin.com/framework) - Simplifies your web app development. Your code is written in Java and executed on the server’s JVM, while the UI is rendered as HTML5 in the browser. The framework also automates all the communication between the browser and the server.
+
 ## Process distribution
 * [Gearman](http://gearman.org/) - Job distributor between machines written in C. It allows you to do work in parallel, to load balance processing, and to call functions between languages. 
 * [Gearman UI](https://github.com/gaspaio/gearmanui). PHP Based monitoring GUI for Gearman infraestructure.
