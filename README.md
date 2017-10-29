@@ -20,7 +20,7 @@ A curated list of open source software for helping Developers and other IT Staff
 * [Vaadin UI Framework](https://vaadin.com/framework) - Simplifies your web app development. Your code is written in Java and executed on the server’s JVM, while the UI is rendered as HTML5 in the browser. The framework also automates all the communication between the browser and the server.
 
 ## Microservices
-* [Low-risk Monolith to Microservice Evolution](http://blog.christianposta.com/microservices/low-risk-monolith-to-microservice-evolution/). Reference. Good approximation to replace monolithic apps by microservices.
+* [Low-risk Monolith to Microservice Evolution](http://blog.christianposta.com/microservices/low-risk-monolith-to-microservice-evolution/). Reference. Good approximation to replace monolithic apps by microservices using kubernetes/Openshift.
 
 ## Process distribution
 * [Gearman](http://gearman.org/) - Job distributor between machines written in C. It allows you to do work in parallel, to load balance processing, and to call functions between languages. 
