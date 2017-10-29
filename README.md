@@ -7,6 +7,9 @@ A curated list of open source software for helping Developers and other IT Staff
 ## Documentation
 * [Read the docs](https://read-the-docs.readthedocs.org/) - Documentation hosting and automated building from Sphinx (reStructuredText) or Markdown sources at Subversion, Bazaar, Git, and Mercurial repositories as Continuous Documentation.
 
+## Editors / IDEs
+* [Jupyter](http://jupyter.org/). stand alone serverr for online notebooks viewing and editing rich documents with code and figures shareable in code repositories.
+
 ## JAVA World
 * [Vaadin UI Framework](https://vaadin.com/framework) - Simplifies your web app development. Your code is written in Java and executed on the server’s JVM, while the UI is rendered as HTML5 in the browser. The framework also automates all the communication between the browser and the server.
 
