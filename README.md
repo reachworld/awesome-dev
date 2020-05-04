@@ -1,3 +1,6 @@
+## Architecture & Design
+* [12 factor Apps](https://12factor.net/). Methodology and good practices (specially on docker) for building software-as-a-service apps that use setup automation, have a clean contract with the underlying operating system, are suitable for deployment on modern cloud platforms, minimize divergence between development and production and can scale up without significant changes to tooling, architecture, or development practices.
+
 # Awesome development
 A curated list of open source software for helping Developers and other IT Staff & Management
 
@@ -12,6 +15,7 @@ A curated list of open source software for helping Developers and other IT Staff
 
 ## Documentation
 * [Read the docs](https://read-the-docs.readthedocs.org/) - Documentation hosting and automated building from Sphinx (reStructuredText) or Markdown sources at Subversion, Bazaar, Git, and Mercurial repositories as Continuous Documentation.
+* [Pandoc](https://pandoc.org/MANUAL.html). Pandoc is a Haskell library for converting from one markup format to another. Pandoc can convert between numerous markup and word processing formats, including, but not limited to, various flavors of Markdown, HTML, LaTeX and Word docx.
 
 ## Editors / IDEs
 * [Jupyter](http://jupyter.org/). stand alone serverr for online notebooks viewing and editing rich documents with code and figures shareable in code repositories.
