@@ -1,8 +1,8 @@
-## Architecture & Design
-* [12 factor Apps](https://12factor.net/). Methodology and good practices (specially on docker) for building software-as-a-service apps that use setup automation, have a clean contract with the underlying operating system, are suitable for deployment on modern cloud platforms, minimize divergence between development and production and can scale up without significant changes to tooling, architecture, or development practices.
-
 # Awesome development
 A curated list of open source software for helping Developers and other IT Staff & Management
+
+## Architecture & Design
+* [12 factor Apps](https://12factor.net/). Methodology and good practices (specially on docker) for building software-as-a-service apps that use setup automation, have a clean contract with the underlying operating system, are suitable for deployment on modern cloud platforms, minimize divergence between development and production and can scale up without significant changes to tooling, architecture, or development practices.
 
 ## Crawling
 * [Scrapy](http://scrapy.org/) - Pythen open source and collaborative framework for extracting the data you need from websites.
