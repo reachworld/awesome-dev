@@ -27,6 +27,7 @@ A curated list of open source software for helping Developers and other IT Staff
 * [Low-risk Monolith to Microservice Evolution](http://blog.christianposta.com/microservices/low-risk-monolith-to-microservice-evolution/). Reference. Good approximation to replace monolithic apps by microservices using kubernetes/Openshift.
 
 ## Process distribution
+* [Beanstalkd](https://beanstalkd.github.io/). Beanstalk is a simple, fast work queue. Its interface is generic, but was originally designed for running time-consuming tasks asynchronously. Its a simpler alternative for other queue technologies like RabbitMQ or ActiveMQ.
 * [Gearman](http://gearman.org/) - Job distributor between machines written in C. It allows you to do work in parallel, to load balance processing, and to call functions between languages. 
 * [Gearman UI](https://github.com/gaspaio/gearmanui). PHP Based monitoring GUI for Gearman infraestructure.
 
